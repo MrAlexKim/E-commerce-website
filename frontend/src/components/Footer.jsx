@@ -120,9 +120,6 @@ function Footer() {
             <Typography sx={{ color: '#FFFFFF' }} variant="p" mt={2}>
               Email us at help@boredgames.com
             </Typography>
-            <Typography sx={{ color: '#FFFFFF' }} variant="p" mt={2}>
-              COMP3900 Capstone Project
-            </Typography>
           </Grid>
         </Grid>
       </Background>
