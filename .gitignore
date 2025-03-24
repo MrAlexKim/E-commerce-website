@@ -1,0 +1,10 @@
+#virtual environment
+.venv/
+
+src/__pycache__/
+
+/node_modules
+
+*.pyc
+
+backend/src/__pycache__/
